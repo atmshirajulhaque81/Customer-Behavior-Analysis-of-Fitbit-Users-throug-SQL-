@@ -42,6 +42,25 @@ This project explores smart device fitness and usage data to explore new growth 
 * **Peak and Off-Peak Activity:** Tuesday and Wednesday are the highest activity and drop-in activity on Friday, Saturday and Sunday (weekend effect) for Bellabeat users.
 * **DAU:** 63% have been found daily active users which is a great insight for bellabeat app.
 
+## 💡 Strategic Marketing Recommendations
+
+Based on the analysis, I recommend the following three-pillar strategy for the Bellabeat marketing team:
+
+1. The "Mid-Week Motivation" Campaign
+Insight: Data showed peak activity on Tuesdays/Wednesdays with a significant weekend drop-off.
+         Deploy targeted app notifications on Friday evenings and Sunday mornings.
+
+2. Personalized Sleep Hour Features
+Insight: Only 30% of users meet recommended sleep durations, and sedentary time correlates with poor sleep.
+         Sleep and heart rate monitoring should be emphasized with market communication.
+
+3. Action Approach:
+Insight: Insprire the customers to track health KPIs and provide a category like “Outstanding Performance” or “You need just another 100 steps to reach your goal.”
+
+4. Subscription Value Enhancement
+Insight: DAU sits at 63% which suggests a high daily engagement, showing a segment of users who may be targeted for strategic marketing personas.
+         Offer a tiered subscription model providing deeper heart rate and stress analysis for users based on logging activity.
+
 ## 📖 Data Dictionary
 
 | Column Name | Data Type | Description |
@@ -57,5 +76,3 @@ This project explores smart device fitness and usage data to explore new growth 
 ## 🔗 Project Links
 * [Full Case Study on WordPress](https://explorelife365.wordpress.com/2025/08/21/customer-behavior-analysis-of-smart-wearables-google-data-analytics-capstone-project/)
 ---
-
-**Would you like me to help you generate a high-quality "Preview Image" for your repository's social media thumbnail so it looks great when shared on LinkedIn?**
