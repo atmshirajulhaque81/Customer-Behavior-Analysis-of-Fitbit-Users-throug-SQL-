@@ -58,7 +58,8 @@ Insight: Only 30% of users meet recommended sleep durations, and sedentary time 
 Insight: Insprire the customers to track health KPIs and provide a category like “Outstanding Performance” or “You need just another 100 steps to reach your goal.”
 
 4. Subscription Value Enhancement
-Insight: DAU sits at 63% which suggests a high daily engagement, showing a segment of users who may be targeted for strategic marketing personas.
+Insight: The selected product should be positioned is Leaf because of its elegant design, major activity tracker, multi purpose usage, bracelet, necklace.
+         DAU sits at 63% which suggests a high daily engagement, showing a segment of users who may be targeted for strategic marketing personas.
          Offer a tiered subscription model providing deeper heart rate and stress analysis for users based on logging activity.
 
 ## 📖 Data Dictionary
