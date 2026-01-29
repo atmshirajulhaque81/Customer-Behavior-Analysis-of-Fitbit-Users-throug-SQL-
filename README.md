@@ -19,6 +19,12 @@ To achieve the business task, this analysis answers the following critical quest
 ## 📌 Project Overview
 This project explores smart device fitness and usage data to explore new growth opportunities for Bellabeat app's curated app designed for health conscious women segment. I have applied **PostgreSQL** for ELT on 30 tables and **Tableau** to visualize activity wise segment trends.
 
+### 🔄 Data Processing & ETL
+![ETL Process](https://explorelife365.wordpress.com/wp-content/uploads/2025/08/etl-process-1.jpg)
+
+### 📈 Weekday Activity Trends
+![Weekday Activity Comparison](https://explorelife365.wordpress.com/wp-content/uploads/2025/08/comparison-of-activity-minutes-by-week-day.jpg)
+
 ## 🛠️ Tech Stack
 * **SQL:** PostgreSQL (Data Cleaning, Transformation, and EDA)
 * **Visualization:** Tableau Public
