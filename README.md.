@@ -13,6 +13,7 @@ This project explores smart device fitness and usage data to explore new growth 
 * **/SQL**: PostgreSQL cleaning and analysis scripts.
 * **/Visualizations**: Database ERD and dashboard snapshots.
 * **/Data**: Context regarding the Mobius Fitbit dataset.
+![Database ERD](./SQL/ERD Diagram Bellabeat App.png)
 
 ## 📊 Key Findings
 * **Sedentary Time:** High correlation found between high sedentary minutes and low sleep quality.
